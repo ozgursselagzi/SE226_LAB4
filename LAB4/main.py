@@ -220,7 +220,7 @@ words = ["a", "ability", "able", "about", "above", "accept", "according", "accou
 # QUESTİON3
 # import random
 #
-# # Array declaration code to generate a list of words
+
 # words = ["a", "ability", "able", "about", "above", "accept", "according", "account", "across", "act", "action",
 #          "activity", "actually", "add", "address", "administration", "admit", "adult", "affect", "after", "again",
 #          "against", "age", "agency", "agent", "ago", "agree", "agreement", "ahead", "air", "all", "allow", "almost",
